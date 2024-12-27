@@ -1,5 +1,7 @@
 # Login Form Project
 
+![Project image](contact-form-main/design/desktop-design.jpg)
+
 ## Overview
 
 This project focuses on creating a user authentication system through a login form. The login form is designed to ensure secure access to a web application by validating user credentials. It incorporates modern design principles and essential functionalities for a seamless user experience.
